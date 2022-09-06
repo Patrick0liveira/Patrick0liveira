@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Patrick0liveira
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Front End Development
+- 📫 How to reach me: oliveira1.patrick@gmail.com / (11)95146365
